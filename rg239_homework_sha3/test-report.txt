@@ -1,0 +1,16 @@
+sha3-test v1.1 by Dr. Tyler Bletsch (Tyler.Bletsch@duke.edu)
+= Certified results report =
+
+Binary under test: /root/rg239_homework3_sha3.zip/sha3.sh
+Current username: root
+Current hostname: kali-vcm-18
+Timestamp: Thu Nov  1 04:51:59 EDT 2018
+
+in_empty  : ok   (a69f73cca23a9ac5c8b567dc185a756e97c982164fe25859e0d1dcc1475c80a615b2123af1f5f94c11e3e9402c3ac558f500199d95b6d3e301758586281dcd26)
+in_abc    : ok   (b751850b1a57168a5693cd924b6b096e08f621827444f70d884f5d0240d2712e10e116e9192af3c91a7ec57647e3934057340b4cf408d5a56592f8274eec53f0)
+in_nums   : ok   (fc2c7d064771a4a3ba90a2e0c11fa8f7f6f3220b00fac456da680dcfb506914026848a8a0b1ae5eaa3251faffdbaaf5a4e6b6c22e6274d23fcf56ac2ba1abca6)
+Score: 15
+
+Signatures:
+284b81407d63ae62acf3848d72e5d6f6a0b0d52ff5f72900c8acf917
+97b86766ec9b63026e96d761eb26fe07c3b4455f29bebb3b2474e856
