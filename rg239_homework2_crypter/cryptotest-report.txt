@@ -1,0 +1,14 @@
+cryptotest v1.2.0 by Dr. Tyler Bletsch (Tyler.Bletsch@duke.edu)
+= Certified results report =
+
+Binary under test: ./duke-crypter
+Test points: (1, 3, 1, 6, 0, 4, 0)
+Total points: 15 / 20
+Current username: rg239
+Current hostname: vcm-6357.vm.duke.edu
+Timestamp: 2018-10-15 02:28:56.934690
+
+Signatures:
+a930a627634fc9a2bb3a592cd6792bd2
+0698fca063907d601996444438f7c1c7
+92d42fb487b96998669c8bee57f18fe4
